@@ -1,0 +1,7 @@
+Enlaces a aplicaciones externas
+
+chatbot web: https://bot.dialogflow.com/2a123e4a-836a-4fe9-8029-eecc2b328407
+chatbot telegram: http://t.me/colombian_food_bot
+
+Repositorio gitHub de aplicación flask: https://github.com/jaidernperez/flask-app-model
+Aplicación flask desplegada en heroku: https://flask-app-model.herokuapp.com/
