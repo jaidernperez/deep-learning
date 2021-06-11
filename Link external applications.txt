@@ -5,3 +5,6 @@ chatbot telegram: http://t.me/colombian_food_bot
 
 Repositorio gitHub de aplicación flask: https://github.com/jaidernperez/flask-app-model
 Aplicación flask desplegada en heroku: https://flask-app-model.herokuapp.com/
+
+Repositorio GitHub de aplicación react de reconocimiento de de reconocimiento de frutas con tensor flow: https://github.com/jaidernperez/fruit-recognition-tensorFlow
+Aplicación React de reconocimiento de frutas con tensor flow: https://fruit-recognition-tensor-flow.herokuapp.com/
